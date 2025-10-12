@@ -1,0 +1,77 @@
+{
+    "appName": "Spend Wise",
+    "pages": {
+        "pageNotFound": {
+            "title": "Page Not Found",
+            "message": "Sorry, the page you are looking for does not exist."
+        },
+        "home": {
+            "title": "Home",
+            "welcomeMessage": "Welcome to the Spend Wise app!"
+        },
+        "settings": {
+            "title": "Settings",
+            "language": "Language",
+            "notifications": "Notifications"
+        },
+        "profile": {
+            "title": "Profile",
+            "editProfile": "Edit Profile",
+            "logout": "Logout"
+        },
+        "category": {
+            "title": "Categories",
+            "addCategory": "Add Category",
+            "deleteCategory": "Delete Category",
+            "categoryNameAr": "Category Name (AR)",
+            "categoryNameEn": "Category Name (EN)",
+            "categoryNameKr": "Category Name (KR)",
+            "editCategory": "Edit Category",
+            "categoryAdded": "Category added successfully",
+            "categoryUpdated": "Category updated successfully",
+            "categoryDeleted": "Category deleted successfully",
+            "confirmDeleteTitle": "Confirm Deletion",
+            "confirmDeleteMessage": "Are you sure you want to delete this category?",
+            "cancel": "Cancel",
+            "confirm": "Confirm",
+            "nameRequired": "Category name is required",
+            "nameUnique": "Category name must be unique",
+            "errorOccurred": "An error occurred",
+            "DefaultLanguage": "Default Language",
+            "selectCategoryIcon": "Select Category Icon",
+            "billsAndUtilities": "Bills & Utilities",
+            "foodAndGroceries": "Food & Groceries",
+            "healthAndFitness": "Health & Fitness",
+            "investments": "Investments",
+            "shopping": "Shopping",
+            "transportation": "Transportation",
+            "travel": "Travel",
+            "education": "Education",
+            "personalCare": "Personal Care",
+            "giftsAndDonations": "Gifts & Donations",
+            "homeAndGarden": "Home & Garden",
+            "pets": "Pets",
+            "hobbiesAndLeisure": "Hobbies & Leisure",
+            "insurance": "Insurance",
+            "subscriptions": "Subscriptions",
+            "taxes": "Taxes",
+            "income": "Income",
+            "savings": "Savings",
+            "otherz": "Other",
+            "pleaseSelectIcon": "Please select an icon",
+            "pleaseEnterName": "Please enter a name",
+            "noCategoriesFound": "No categories found.",
+            "categoryHaveNoName": "Category has no name"
+        }
+    },
+    "ar": "Arabic",
+    "en": "English",
+    "fa": "Kurdish",
+    "cancel": "Cancel",
+    "confirm": "Confirm",
+    "selectAll": "Select All",
+    "deselectAll": "Deselect All",
+    "delete": "Delete",
+    "add": "Add",
+    "edit": "Edit"
+}

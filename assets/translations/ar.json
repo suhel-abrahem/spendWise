@@ -1,0 +1,77 @@
+{
+    "appName": "اصرف بحكمة",
+    "pages": {
+        "pageNotFound": {
+            "title": "الصفحة غير موجودة",
+            "message": "عذرًا، الصفحة التي تبحث عنها غير موجودة."
+        },
+        "home": {
+            "title": "الصفحة الرئيسية",
+            "welcomeMessage": "مرحبًا بك في تطبيق اصرف بحكمة!"
+        },
+        "settings": {
+            "title": "الإعدادات",
+            "language": "اللغة",
+            "notifications": "الإشعارات"
+        },
+        "profile": {
+            "title": "الملف الشخصي",
+            "editProfile": "تعديل الملف الشخصي",
+            "logout": "تسجيل الخروج"
+        },
+        "category": {
+            "title": "الفئات",
+            "addCategory": "إضافة فئة",
+            "deleteCategory": "حذف فئة",
+            "categoryNameAr": "(AR) اسم الفئة",
+            "categoryNameEn": "(EN) اسم الفئة",
+            "categoryNameKr": "(KR) اسم الفئة",
+            "editCategory": "تعديل فئة",
+            "categoryAdded": "تمت إضافة الفئة بنجاح",
+            "categoryUpdated": "تم تحديث الفئة بنجاح",
+            "categoryDeleted": "تم حذف الفئة بنجاح",
+            "confirmDeleteTitle": "تأكيد الحذف",
+            "confirmDeleteMessage": "هل أنت متأكد أنك تريد حذف هذه الفئة؟",
+            "cancel": "إلغاء",
+            "confirm": "تأكيد",
+            "nameRequired": "اسم الفئة مطلوب",
+            "nameUnique": "اسم الفئة يجب أن يكون فريدًا",
+            "errorOccurred": "حدث خطأ ما",
+            "DefaultLanguage": "اللغة الافتراضية",
+            "selectCategoryIcon": ":اختر أيقونة الفئة",
+            "billsAndUtilities": "الفواتير والمرافق",
+            "foodAndGroceries": "الطعام والبقالة",
+            "healthAndFitness": "الصحة واللياقة",
+            "investments": "الاستثمارات",
+            "shopping": "التسوق",
+            "transportation": "النقل",
+            "travel": "السفر",
+            "education": "التعليم",
+            "personalCare": "العناية الشخصية",
+            "giftsAndDonations": "الهدايا والتبرعات",
+            "homeAndGarden": "المنزل والحديقة",
+            "pets": "الحيوانات الأليفة",
+            "hobbiesAndLeisure": "الهوايات والترفيه",
+            "insurance": "التأمين",
+            "subscriptions": "الاشتراكات",
+            "taxes": "الضرائب",
+            "income": "الدخل",
+            "savings": "المدخرات",
+            "otherz": "أخرى",
+            "pleaseSelectIcon": "يرجى اختيار أيقونة",
+            "pleaseEnterName": "يرجى إدخال اسم",
+            "noCategoriesFound": "لم يتم العثور على فئات.",
+            "categoryHaveNoName": "الفئة ليس لها اسم"
+        }
+    },
+    "ar": "العربية",
+    "en": "الإنجليزية",
+    "fa": "الكردية",
+    "cancel": "إلغاء",
+    "confirm": "تأكيد",
+    "selectAll": "تحديد الكل",
+    "deselectAll": "إلغاء تحديد الكل",
+    "delete": "حذف",
+    "add": "إضافة",
+    "edit": "تعديل"
+}
