@@ -406,11 +406,6 @@ class _AddCategoryContainerState extends State<AddCategoryContainer> {
               blurY: 3,
               frosted: true,
               tintColor: Theme.of(context).scaffoldBackgroundColor,
-              firstOpacity: 0.6,
-              secondOpacity: 0.46,
-              clipBorderRadius: BorderRadiusDirectional.vertical(
-                top: Radius.circular(30.r),
-              ),
             );
           },
         ),
